@@ -1,0 +1,77 @@
+﻿l_english:
+
+e_german_empire: "German Empire"
+k_prussia_original: "Prussia"  
+k_prussia_original: ""  
+d_magdeburg: "Magdeburg"
+d_magdeburg: ""
+custom_brandenburg_title: "Brandenburg"
+custom_brandenburg_expanded: "Brandenburg"
+custom_prussia_original: "Prussia"
+custom_german_empire: "German Empire"
+is_target_in_global_variable_list: "Memeland must be integrated."
+#Claim Prussia
+custom_claim_prussia: "Claim Prussia"
+custom_claim_prussia_desc: "Claim Prussia"
+custom_claim_prussia_tooltip: "Claim Prussia"
+custom_claim_prussia_confirm: "Claim Prussia"
+#Found Brandenburg
+custom_claim_silesia: "Claim Silesia"
+custom_claim_silesia_desc: "Silesia rightfully belongs to us, and we will take it"
+custom_claim_silesia_tooltip: "Claim Silesia"
+custom_claim_silesia_confirm: "Claim Silesia"
+
+custom_integrate_memel: "Integrate the Memel Territory"
+custom_integrate_memel_desc: "The Memel Territory, a strategically valuable area on the Baltic Sea, is essential for strengthening our Duchy of Prussia. By integrating this land, we not only expand our territory but also secure important trade routes and strengthen our position on the Baltic coast."
+custom_integrate_memel_tooltip: "Integrate the Memel Territory"
+custom_integrate_memel_confirm: "Integrate the Memel Territory"
+
+custom_create_brandenburg: "Found the Margraviate of Brandenburg"
+custom_create_brandenburg_desc: "The Margraviate of Brandenburg will be established as the largest territory in the HRE."
+custom_create_brandenburg_tooltip: "Found the Margraviate of Brandenburg"
+custom_create_brandenburg_confirm: "Found the Margraviate of Brandenburg"
+
+custom_expand_prussia: "Consolidate Prussia."
+custom_expand_prussia_desc: "Consolidate Prussia and integrate our new territory, Silesia"
+custom_expand_prussia_tooltip: "Consolidate Prussia"
+custom_expand_prussia_confirm: "Consolidate Prussia"
+
+custom_form_Prussia: "Become King in Prussia"
+custom_form_Prussia_desc: "I, the Margrave of Brandenburg and Duke of Prussia, am one of the most powerful lords in the Empire. Now, the territory controlled by me will be called the new Kingdom of Prussia."
+custom_form_Prussia_tooltip: "Become King in Prussia"
+custom_form_Prussia_confirm: "Become King in Prussia"
+
+custom_form_german_empire: "Become german emperor."
+custom_form_german_empire_desc: "Become german emperor."
+custom_form_german_empire_tooltip: "Become german emperor."
+custom_form_german_empire_confirm: "Become german emperor."
+
+prussia_decisions_expanded.0001.t: "The King in Prussia"
+prussia_decisions_expanded.0001.desc: "As a result of the eastward expansion, our family was able to conquer the heathens in the east of the Empire and occupy a new, larger territory. From the ends of Brandenburg to the north of Poland and to the threshold of Prussia, my territory will now be united under the name of the new Kingdom of Prussia."
+prussia_decisions_expanded.0001.l: "Give me the crown of victory!"
+prussia_decisions_expanded.0001.l.tt: "Give me the crown of victory!"
+
+prussia_decisions_expanded.0002.t: "The Founding of the Margraviate of Brandenburg"
+prussia_decisions_expanded.0002.desc: "After long negotiations and strategic maneuvers, we have succeeded in opening a new chapter in the history of the Holy Roman Empire. The Margraviate of Brandenburg, once a frontier land, is now established as a central point of power. From the banks of the Elbe to the depths of the German forests, this new duchy symbolizes our influence and our determination to strengthen and expand the Empire."
+prussia_decisions_expanded.0002.l: "Raise the banner of the Margraviate!"
+prussia_decisions_expanded.0002.l.tt: "Raise the banner of the Margraviate!"
+
+prussia_decisions_expanded.0003.t: "The Integration of the Memel Territory"
+prussia_decisions_expanded.0003.desc: "The Memel Territory, once a contested region on the Baltic coast, now stands at the beginning of a new era. Through skilled diplomacy and strategic planning, we have succeeded in incorporating this valuable area into our Duchy of Prussia. This expansion not only strengthens our presence on the Baltic Sea but also secures important trade routes and solidifies our power in the region."
+prussia_decisions_expanded.0003.l: "The banner of Prussia flies over the Memel Territory!"
+prussia_decisions_expanded.0003.l.tt: "The banner of Prussia flies over the Memel Territory!"
+
+prussia_decisions_expanded.0004.t: "The Integration of Silesia"  
+prussia_decisions_expanded.0004.desc: "Silesia, a land rich in history and resources, now stands on the threshold of a new era. After long negotiations and strategic maneuvers, we have succeeded in integrating this significant territory into the Kingdom of Prussia. This significant expansion of our realm not only strengthens our economic and military position but also solidifies our influence in Central Europe."  
+prussia_decisions_expanded.0004.l: "Silesia under the Crown of Prussia!"  
+prussia_decisions_expanded.0004.l.tt: "Silesia under the Crown of Prussia!"
+
+prussia_decisions_expanded.0005.t: "The Unification with Greater Poland"  
+prussia_decisions_expanded.0005.desc: "The Duchy of Greater Poland, a land of deep cultural and historical significance, has now found its place in our growing kingdom. Through diplomatic skill and far-sighted politics, we have managed to peacefully integrate Greater Poland into the Kingdom of Prussia. This significant expansion of our territory opens new opportunities for trade, culture, and political influence in the region."  
+prussia_decisions_expanded.0005.l: "Greater Poland under the Prussian Flag!"  
+prussia_decisions_expanded.0005.l.tt: "Greater Poland under the Prussian Flag!"
+
+prussia_decisions_expanded.0006.t: "The Foundation of the German Empire"  
+prussia_decisions_expanded.0006.desc: "In a historic act of unification and national pride, we proclaim today the foundation of the German Empire. Under our leadership, the numerous German states will be united to usher in a new era of prosperity, power, and cultural resurgence. This monumental step marks the beginning of a united Germany, appearing on the world stage as a powerful and unified nation."  
+prussia_decisions_expanded.0006.l: "Long live the German Empire!"  
+prussia_decisions_expanded.0006.l.tt: "Long live the German Empire!"
