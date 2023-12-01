@@ -1,0 +1,79 @@
+﻿l_german:
+
+e_german_empire: "Deutsches Reich"
+k_prussia_original: "Preußen"  
+k_prussia_original: ""  
+d_magdeburg: "Magdeburg"
+d_magdeburg: ""
+custom_brandenburg_title: "Brandenburg"
+custom_brandenburg_expanded: "Brandenburg"
+custom_prussia_original: "Preußen"
+custom_german_empire: "Deutsches Reich"
+is_target_in_global_variable_list: "Das Memeland muss integriert sein."
+#Claim Prussia
+custom_claim_prussia: "Preußen beanspruchen"
+custom_claim_prussia_desc: "Preußen beanspruchen"
+custom_claim_prussia_tooltip: "Preußen beanspruchen"
+custom_claim_prussia_confirm: "Preußen beanspruchen"
+#Brandenburg gründen
+custom_claim_silesia: "Schlesien beanspruchen"
+custom_claim_silesia_desc: "Schlesien gehört rechtmäßig uns, und wir werden es einnehmen"
+custom_claim_silesia_tooltip: "Schlesien beanspruchen"
+custom_claim_silesia_confirm: "Schlesien beanspruchen"
+
+custom_integrate_memel: "Das Memelland integrieren"
+custom_integrate_memel_desc: "Das Memelland, ein strategisch wertvolles Gebiet an der Ostsee, ist für die Stärkung unseres Herzogtums von Preußen unerlässlich. Durch die Integration dieses Landes erweitern wir nicht nur unser Territorium, sondern sichern auch wichtige Handelswege und stärken unsere Position an der Ostseeküste."
+custom_integrate_memel_tooltip: "Das Memelland integrieren"
+custom_integrate_memel_confirm: "Das Memelland integrieren"
+
+custom_create_brandenburg: "Die Markgrafschaft Brandenburg gründen"
+custom_create_brandenburg_desc: "Die Markgrafschaft Brandenburg wird als das größte Territorium im HRR etabliert."
+custom_create_brandenburg_tooltip: "Die Markgrafschaft Brandenburg gründen"
+custom_create_brandenburg_confirm: "Die Markgrafschaft Brandenburg gründen"
+
+custom_expand_prussia: "Preußen konsolidieren."
+custom_expand_prussia_desc: "Preußen konsolidieren und unser neues Territorium Schlesien integrieren"
+custom_expand_prussia_tooltip: "Preußen konsolidieren"
+custom_expand_prussia_confirm: "Preußen konsolidieren"
+
+custom_form_Prussia: "König in Preußen werden"
+custom_form_Prussia_desc: "Ich, der Markgraf von Brandenburg und Herzog von Preußen, bin einer der mächtigsten Herren im Reich. Nun wird das von mir kontrollierte Territorium das neue Königreich Preußen genannt."
+custom_form_Prussia_tooltip: "König in Preußen werden"
+custom_form_Prussia_confirm: "König in Preußen werden"
+
+custom_form_german_empire: "Kaiser von Deutschland werden."
+custom_form_german_empire_desc: "Ich werde Kaiser von Deutschland."
+custom_form_german_empire_tooltip: "Kaiser von Deutschland werden."
+custom_form_german_empire_confirm: "Kaiser von Deutschland werden."
+
+prussia_decisions_expanded.0001.t: "Der König in Preußen"
+prussia_decisions_expanded.0001.desc: "Als Ergebnis der Ostsiedlung konnte unsere Familie die Heiden im Osten des Reiches erobern und ein neues, größeres Territorium besetzen. Von den Enden Brandenburgs bis zum Norden Polens und an die Schwelle Preußens wird mein Territorium nun unter dem Namen des neuen Königreichs Preußen vereint."
+prussia_decisions_expanded.0001.l: "Gib mir die Krone des Sieges!"
+prussia_decisions_expanded.0001.l.tt: "Gib mir die Krone des Sieges!"
+
+prussia_decisions_expanded.0002.t: "Die Gründung der Markgrafschaft Brandenburg"
+prussia_decisions_expanded.0002.desc: "Nach langen Verhandlungen und strategischen Manövern ist es uns gelungen, ein neues Kapitel in der Geschichte des Heiligen Römischen Reiches aufzuschlagen. Die Markgrafschaft Brandenburg, einst ein Grenzland, wird nun als ein zentraler Punkt der Macht etabliert. Von den Ufern der Elbe bis zu den Tiefen der deutschen Wälder, dieses neue Herzogtum symbolisiert unseren Einfluss und unsere Entschlossenheit, das Reich zu stärken und zu erweitern."
+prussia_decisions_expanded.0002.l: "Das Banner der Markgrafschaft erheben!"
+prussia_decisions_expanded.0002.l.tt: "Das Banner der Markgrafschaft erheben!"
+
+custom_integrate_memel_decision.0001.t: "Die Eingliederung des Memellandes"
+custom_integrate_memel_decision.0001.desc: "Das Memelland, einst eine umkämpfte Region an der Ostseeküste, steht nun am Beginn einer neuen Ära. Durch geschickte Diplomatie und strategische Planung ist es uns gelungen, dieses wertvolle Gebiet in unser Herzogtum Preußen einzugliedern. Diese Expansion stärkt nicht nur unsere Präsenz an der Ostsee, sondern sichert auch wichtige Handelsrouten und festigt unsere Macht in der Region."
+custom_integrate_memel_decision.0001.l: "Das Banner von Preußen weht über dem Memelland!"
+custom_integrate_memel_decision.0001.l.tt: "Das Banner von Preußen weht über dem Memelland!"
+
+custom_integrate_silesia_decision.0001.t: "Die Eingliederung Schlesiens"
+custom_integrate_silesia_decision.0001.desc: "Schlesien, ein Land reich an Geschichte und Ressourcen, steht nun an der Schwelle einer neuen Ära. Nach langen Verhandlungen und strategischen Manövern ist es uns gelungen, dieses bedeutende Territorium in das Königreich Preußen einzugliedern. Diese bedeutsame Erweiterung unseres Reiches stärkt nicht nur unsere wirtschaftliche und militärische Position, sondern festigt auch unseren Einfluss in Zentraleuropa."
+custom_integrate_silesia_decision.0001.l: "Schlesien unter der Krone Preußens!"
+custom_integrate_silesia_decision.0001.l.tt: "Schlesien unter der Krone Preußens!"
+
+custom_integrate_greater_poland_decision.0001.t: "Die Vereinigung mit Großpolen"
+custom_integrate_greater_poland_decision.0001.desc: "Das Herzogtum Großpolen, ein Land mit tiefer kultureller und historischer Bedeutung, hat nun seinen Platz in unserem wachsenden Königreich gefunden. Durch diplomatische Geschicklichkeit und weitsichtige Politik haben wir es erreicht, Großpolen friedlich in das Königreich Preußen zu integrieren. Diese bedeutende Erweiterung unseres Territoriums eröffnet neue Möglichkeiten für Handel, Kultur und politischen Einfluss in der Region."
+custom_integrate_greater_poland_decision.0001.l: "Großpolen unter preußischer Flagge!"
+custom_integrate_greater_poland_decision.0001.l.tt: "Großpolen unter preußischer Flagge!"
+
+custom_form_german_empire_decision.0001.t: "Die Gründung des Deutschen Reichs"
+custom_form_german_empire_decision.0001.desc: "In einem historischen Akt der Einigung und des Nationalstolzes proklamieren wir heute die Gründung des Deutschen Reichs. Unter unserer Führung werden die zahlreichen deutschen Staaten vereint, um eine neue Ära des Wohlstands, der Macht und des kulturellen Aufschwungs einzuläuten. Dieser monumentale Schritt markiert den Beginn eines vereinten Deutschlands, das auf der Weltbühne als mächtige und vereinte Nation auftritt."
+custom_form_german_empire_decision.0001.l: "Lang lebe das Deutsche Reich!"
+custom_form_german_empire_decision.0001.l.tt: "Lang lebe das Deutsche Reich!"
+
+
